@@ -1,0 +1,26 @@
+{
+    "default": {
+        "name": "Default (2x17)",
+        "area_width_cm": 9.42,
+        "area_height_cm": 6.8,
+        "start_row": 1,
+        "start_col": 1,
+        "photos_per_row": 2,
+        "row_jump": 17,
+        "column_spacing": 4,
+        "desc_row_offset": 1,
+        "desc_col_offset": 0
+    },
+    "RF CLARO PROYECTOS": {
+        "name": "RF CLARO PROYECTOS",
+        "area_width_cm": 8.2,
+        "area_height_cm": 6.8,
+        "start_row": 10,
+        "start_col": 2,
+        "photos_per_row": 3,
+        "row_jump": 18,
+        "column_spacing": 4,
+        "desc_row_offset": 14,
+        "desc_col_offset": 1
+    }
+}
